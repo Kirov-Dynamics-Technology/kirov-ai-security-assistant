@@ -43,3 +43,9 @@ credentials.json
 htmlcov/
 .pytest_cache/
 junit/
+
+# Logs
+*.log
+
+# Vercel
+.vercel
